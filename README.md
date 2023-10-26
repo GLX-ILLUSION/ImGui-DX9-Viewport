@@ -7,7 +7,7 @@ Dear ImGui DX9 Viewport
 
 ## Credits
 
-The original offsets were sourced from the following repository: [ocornut imgui](https://github.com/ocornut/imgui)
+imgui sourced from the following repository: [ocornut imgui](https://github.com/ocornut/imgui)
 
 ## Show Your Support
 
